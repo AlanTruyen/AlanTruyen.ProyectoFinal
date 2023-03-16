@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 * {
@@ -24,7 +25,8 @@ body{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    height: 200px;
+    height: 10%
+    width: 30%
     padding: 5px 10%;
 }
 
@@ -68,4 +70,4 @@ header .nav-links li a:hover{
  .article.profile {font-family: 'Oswald', sans-serif;
     font-size: 20px;}
 
-#proyectofinal {text-align: start;}
+#proyectofinal {text-align: start;}
